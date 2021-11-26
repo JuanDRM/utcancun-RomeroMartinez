@@ -31,6 +31,8 @@
 	<h2>Romero Martínez Juan Daniel y Ramirez Moo Joaquin</h2>
 	<a href="/Login/login.php">Login</a>  <a href="/Login/logout.php">Cerrar sesión</a>
 	<br>
+	<p>Bienvenidos</p>
+	<p>Ciclo Escolar 2021-2022</p>
 	<a href="/Carreras/Carreras.php">Carreras</a>  <a href="/Estudiantes/Estudiantes.php">Estudiantes</a>
 
 </body>

@@ -31,6 +31,7 @@
 	<h2>Romero Martínez Juan Daniel y Ramirez Moo Joaquin</h2>
 	<a href="/Login/login.php">Login</a>  <a href="/Login/logout.php">Cerrar sesión</a>
 	<br>
+	<p>Bienvenido</p>
 	<a href="/Carreras/Carreras.php">Carreras</a>  <a href="/Estudiantes/Estudiantes.php">Estudiantes</a>
 
 </body>
